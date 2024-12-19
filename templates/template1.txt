@@ -1,1 +1,0 @@
-Write a blog post on the topic of {{topic}}. The blog post should include an introduction, main points, and a conclusion.
